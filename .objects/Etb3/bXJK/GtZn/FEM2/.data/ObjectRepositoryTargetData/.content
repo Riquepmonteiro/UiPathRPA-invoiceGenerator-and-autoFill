@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sXxvOmbGWEi7aDe5Pr8AJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="invoice-generator.com" CVScreenId="6f36ea15-ae97-4299-8c03-9270059bd0eb" CvElementArea="332, 641, 389, 63" CvType="InputBox" DesignTimeRectangle="334, 643, 385, 60" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='' class='form-control form-control-sm ng-pristine ng-untouched ng-valid expanding-init ng-valid-required' placeholder='De quem é isso?' aaname='' /&gt;" Guid="94b2b262-c947-4b7d-b8df-6ffb56cf5828" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Gerador Fatura gratuito' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6f36ea15-ae97-4299-8c03-9270059bd0eb" CvTextArea="350, 730, 112, 16" CvTextArgument="Projeto de lei para" CvType="Text" DesignTimeRectangle="334, 719, 283, 38" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tabindex='16' tag='INPUT' type='text' class='input-label form-control form-control-sm ng-pristine ng-untouched ng-valid' aaname='' /&gt;" Guid="97652900-f5c3-47fa-bc9f-49adbce01b83" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="521cfaa852f89e6c1eb59680676f6c9a.png" xmlns="">0K5kjzM1D1USkFEAx4M8OhQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

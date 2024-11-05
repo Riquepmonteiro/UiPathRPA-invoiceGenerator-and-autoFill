@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Gerador Fatura gratuito",
+  "Type": "App",
+  "Id": "Etb3jQ2XCUyx2b__ouJ_ZA",
+  "Reference": "zW2ttyx_WEGp12ahe8NK_g/Etb3jQ2XCUyx2b__ouJ_ZA",
+  "Created": "2024-11-04T12:31:30.9829426Z",
+  "Updated": "2024-11-04T12:31:30.9829426Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Lucero-Jones",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "FEM2j0erBE-2xnC4O1UPIg",
+  "Reference": "zW2ttyx_WEGp12ahe8NK_g/FEM2j0erBE-2xnC4O1UPIg",
+  "ParentRef": "zW2ttyx_WEGp12ahe8NK_g/GtZnqV7h7EqMak_6tg59GQ",
+  "Created": "2024-11-04T12:34:10.6033356Z",
+  "Updated": "2024-11-04T12:34:10.6033356Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

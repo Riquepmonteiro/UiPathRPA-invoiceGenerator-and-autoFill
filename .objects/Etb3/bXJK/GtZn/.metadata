@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Gerador Fatura gratuito",
+  "Type": "Screen",
+  "Id": "GtZnqV7h7EqMak_6tg59GQ",
+  "Reference": "zW2ttyx_WEGp12ahe8NK_g/GtZnqV7h7EqMak_6tg59GQ",
+  "ParentRef": "zW2ttyx_WEGp12ahe8NK_g/bXJKHlP_y0ir7mqm4AWTLw",
+  "Created": "2024-11-04T12:31:31.0387232Z",
+  "Updated": "2024-11-04T12:31:31.0387232Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

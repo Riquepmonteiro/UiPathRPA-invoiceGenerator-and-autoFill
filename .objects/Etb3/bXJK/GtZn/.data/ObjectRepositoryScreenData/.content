@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="t0NxJUCioUSyeFLro33N2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH6AQFDTU5AXG8UAAAAoRJREFUWEft199LU2EYB/BRlt7VRRRBmxf5o0atG+d2WgzM40UrYYKauaVQYJtSS9hFf4AWeZNGBIJeFNpdEVLdBq1R2M6/0VUFkRflOTun77O9k/es854fugshH/iAk7PzfPf+OO/m2yunktcnyT5IwQOYdeE+3IMjQO8/Ccfpb8/FbtAEr8Dw4Ct0Ar0/A6twjF57KnaDnQbIsv+tgLcQdDE0KoAO3kLQhdCoAKQW4iiwLjYll7KQaeorTb0Ew4pMzM2JKEDNCzjB2lRroPiLHIAYXIbEQHEjkSx867/w/M4HaSmlS8tp1WQprcZWx9XeT1n6ZHwDPkAC3sFbzhswDwELcAg+ggZ/SLLw8/e5dH4zEOzWW89IZkFJ77h0Ue15f6ssfxEG2A/NcJBDr1tY62qhGTkM62DUIIAeGs1r/rawEeiMmvjbI0Z7X49mF8B1oRlphhGYhhxJFn5MS/N3la6ZwXLX7JBqMjOoRh5fU3uL/0zBBjyDRzAvwlqLa2sRKliEChadBcEidIW1EZesIIBiHaBuyLeFhnzUSbLw/XpsMfc5sjBigFYTX7tZP++eUYCyEyxCLZTKq/6OsB44Ha06FdUx/1plJCxu7NauCJBygikYoynoXriqc1Ogxtdu7HwKnKqyCAW7oCGL0KnsdoFbdtu00gTDTIIwYQVTkDn/JFcKzw0Z4blh3ZOHw+XYylj9Q8oyQBa2Hr88u0exE39bxDg7eUU4XXwA+rSbUDmAeLaHkQPaMaHb/bqbAK3AjmAedxwvWxzHTnBcx19jt1g0J5UAduXmC4ktWoQ2u4W1ERcuItv5SuYKayMuXLQXYFcEoJ9mE7AITxuJtflvy+f7C+UrdzVMhxgIAAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='Gerador Fatura gratuito' /&gt;" Title="Gerador Fatura gratuito" Url="https://invoice-generator.com/" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="b6d3af8b91065eee1ba14679dc624904.jpg" xmlns="">0RiQ71NFGek2rNDJEYFmlVA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
